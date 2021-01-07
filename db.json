@@ -2,18 +2,18 @@
   "posts": [
     {
       "id": 1,
-      "title": "Post 1",
-      "body": "Body 1"
+      "title": "Hacer las compras de la semana",
+      "body": "Pan, verduras, frutas, detergente."
     },
     {
       "id": 2,
-      "title": "Post 2",
-      "body": "Body 2"
+      "title": "Ir al banco",
+      "body": "Llevar fotocopias de los documentos"
     },
     {
       "id": 3,
-      "title": "Post #3",
-      "body": "Body 3"
+      "title": "Repasar la clase de inglés",
+      "body": "Verbo "to be" "
     }
   ]
 }
