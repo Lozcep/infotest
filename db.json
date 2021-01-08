@@ -3,17 +3,44 @@
     {
       "id": 1,
       "title": "Hacer las compras de la semana",
-      "body": "Pan, verduras, frutas, detergente."
+      "body": "Pan, verduras, frutas, detergente.",
+      "status": false
     },
     {
       "id": 2,
       "title": "Ir al banco",
-      "body": "Llevar fotocopias de los documentos"
+      "body": "Llevar fotocopias de los documentos",
+      "status": false
     },
     {
       "id": 3,
       "title": "Repasar la clase de inglés",
-      "body": "Verbo to be "
+      "body": "Verbo to be ",
+      "status": true
+    },
+    {
+      "id": 4,
+      "title": "Ir al gimnasio",
+      "body": "Rutina de piernas",
+      "status": true
+    },
+    {
+      "id": 5,
+      "title": "Sacar a pasear al perro",
+      "body": "Despues de la comida",
+      "status": true
+    },
+    {
+      "id": 6,
+      "title": "Seguir leyendo la novela",
+      "body": "seguir por el capitulo 4",
+      "status": false
+    },
+    {
+      "id": 7,
+      "title": "Limpiar el jardin",
+      "body": "Sábado por la mañana",
+      "status": true
     }
   ]
 }
